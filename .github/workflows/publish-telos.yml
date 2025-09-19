@@ -6,9 +6,10 @@ on:
       - main
 
 permissions:
-  contents: write
+     contents: write
     pages: write
-  id-token: write
+    id-token: write
+
 
 jobs:
   build:

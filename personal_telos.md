@@ -2,95 +2,79 @@
 
 ## DOCUMENT PURPOSE
 
-This document captures the TELOS method of articulating a person's personal context so that they, and AI, can better understand them and help them improve. Pay attention to the items and the concepts here, and especially on how they work together.
-
-The conceptual path is Problems -> Mission -> (Narratives) -> Goals -> Challenges -> Strategies —> Projects -> Journal. This means that any project you're doing can be mapped all the way back up to the problem(s) you're trying to solve. This gives you transparency and explainability in everything you're doing so you don't end up busy for days/months/years without being able to remember why you're doing what you're doing.
-
-Other sections that aren't those core sections are additional context to support them.
+This document captures Vijay Pal's personal TELOS — a structured narrative about the problems he wants to solve, his mission, narratives, goals, challenges, strategies, projects, history and log. It helps him and AI assistants understand his aspirations and design actions that align with his vision and context.
 
 ## HISTORY
 
-- I grew up in the Austin, TX area
-- I went to Mission High School, where I was bullied a decent amount
-- High school is where I met my 2 life-long friends, Doug and Mitchell who are still my friends today
+- Born and raised in Montgomery, Alabama (current home base).
+- Earned an Associate's degree in Information Technology from Blue Ridge Community College (Aug 2011 – May 2013).
+- Worked in various hospitality roles at local establishments, including:
+  - Server at Buffalo Wild Wings (2018 – 2019).
+  - Bartender at Brixx Wood Fired Pizza (2019 – 2021).
+  - Lead Bartender at The Dugout Sports Bar & Grill (Jun 2021 – Jan 2022).
+- Promoted to Assistant Manager at Itta Bena Montgomery in Aug 2022, where he oversees daily operations, manages inventory and service quality, and leads a team of bartenders and servers.
 
 ## PROBLEMS
 
-- P1: Not enough people understand how to build secure open-source software
+- P1: Inconsistent quality of service and guest experience in high‑volume dining environments.
+- P2: Inefficient inventory management leading to waste and higher costs.
+- P3: Limited career growth opportunities and professional development for hospitality workers.
+- P4: High staff turnover and lack of structured training programs.
+- P5: Slow adoption of technology to streamline operations and enhance customer satisfaction.
 
 ## MISSION
 
-- M1: Create and promote a standard for building secure open-source software
+- M1: Create and maintain a hospitality environment where excellence in service, operational efficiency and team development are the norm.
+- M2: Mentor and educate team members so they can grow into future leaders in the industry.
+- M3: Use technology and data‑driven systems to reduce waste and improve guest satisfaction.
 
 ## NARRATIVES
 
-- N1: I think open-sources software is the future, and it's currently extremely insecure, so I'm building a standard and platform for people to create secure versions of whatever they build
-- N2: I am the author of a platform that helps people create secure software.
- 
+### Short
+
+Hospitality professional dedicated to delivering outstanding guest experiences and operational excellence.
+
+### Conversational
+
+I manage a fine‑dining restaurant in Montgomery and love providing memorable experiences for guests. I’m passionate about mentoring my team, streamlining operations and using technology to make our work easier and more efficient.
+
+### Pitch30
+
+With more than a decade of experience in hospitality and a background in IT, I blend service excellence with operational know‑how. As Assistant Manager at Itta Bena Montgomery, I oversee day‑to‑day operations, implement digital inventory systems and develop training programs. My mission is to create a workplace where guests are delighted, staff feel empowered and the business thrives.
+
 ## GOALS
 
-- G1: Go on the Secure Code Warrior podcast by July of 2026
-- G2: Get at least 100,000 downloads of SecureOSS by December of 2026
-- G3: Wife by 35
-- G4: First kid by 36
+- G1: Achieve an average guest satisfaction score of ≥95 % by 31 December 2025.  
+  – Metric: customer satisfaction surveys and online reviews.
+- G2: Reduce inventory waste by 20 % by 31 December 2025.  
+  – Metric: cost of goods sold and waste reports.
+- G3: Implement quarterly training sessions and reduce service errors by 50 % by 30 June 2026.  
+  – Metric: error logs and performance reviews.
+- G4: Develop a personal business plan to open a boutique restaurant or attain a general manager role by 2028.
 
 ## CHALLENGES
 
-- C1: I'm super stressed at work and never have time to work on SOSS.
-- C2: I'm having trouble building the UI/UX for SOSS
-- C3: Someone else has a similar project and it's distracting me and demotivating me
-- C4: Hate dating apps
+- C1: Balancing operational duties with time for strategic planning and staff development.
+- C2: Attracting and retaining talented staff in a competitive labour market.
+- C3: Selecting and integrating affordable technology solutions without disrupting service.
+- C4: Maintaining work‑life balance while working long hospitality hours.
+- C5: Accessing capital and mentorship for long‑term career advancement.
 
-## THINGS I'VE BEEN WRONG ABOUT
+## STRATEGIES
 
-- Thought AirBnB would shut down all the hotels. But they're doing fine.
-- I thought NVIDIA would have been crushed by Amazon by like 2021
+- S1 (C1): Use structured scheduling and delegate routine tasks to team leads to free up time for planning and coaching.
+- S2 (C2): Foster a positive team culture, offer incentives, and provide clear career paths and training opportunities.
+- S3 (C3): Start with low‑cost digital tools for inventory and ordering; pilot them with one department before scaling.
+- S4 (C4): Set clear boundaries, schedule regular time off and practice self‑care to avoid burnout.
+- S5 (C5): Build a network of mentors and peers, attend industry events and explore funding options for future ventures.
 
-## IDEAS
+## PROJECTS
 
-- I1: Go is the best language because of how universal and fast it is
-- I2: All government software should be OSS and run off SOSS
-- I3: Adam Smith's invisible hand doesn't apply to FOSS because incentives are misaligned
-
-## PREDICTIONS
-
-- NVIDIA hits $200 by August of 2026 (80%)
-- China attacks Taiwan by January of 2027 (60%)
-- The price of a gallon of milk hits ______ by ______________. (75%)
-
-## BEST MOVIES
-
-- More
-- Interstellar
-- Pulp Fiction
-- LA-LA Land
-
-## BEST BOOKS
-
-- Man's Search for Meaning
-- The Beginning of Infinity
-- The Science of Storytelling
-- War is Art
-
-## WISDOM
-
-- The magic you're looking for is in the work you're avoiding.
-- In practice, weak people behave very similarly to evil people. Don’t tie yourself to either.
-- When I am feeling low mood or low energy, 95% of the time it's because I have not 1) gotten up early, 2) gotten outside, 3) worked out, 4) gone for a walk, or done anything else physical in the last 2 days. Just go do that, and you'll instantly feel better.
-
-## METRICS
-
-- K1: 100K downloads by July 2026
-- K2: Wife by 35
-- K3: Kid by 36
-
-## TRAUMAS
-
-- Lost my Mom at an early age due to a traffic accident when I was in the car
-- A major house fire killed our family dog when I was 6 
+- PJT1 (S3): Research, select and implement a digital inventory management system by 30 June 2025.
+- PJT2 (S2): Design and roll out a quarterly staff training and development program by 31 March 2025.
+- PJT3 (S1, S2): Develop a customer feedback and loyalty program to increase repeat business by 31 December 2025.
+- PJT4 (S5): Draft a comprehensive business plan for a future restaurant concept or general manager application by 31 December 2027.
 
 ## LOG (Journal)
 
-- 22/11/2019: Not sure why she reacted like that. Wasn't my fault. But we fixed it with pecan pie.
-- 22/01/2020: Got my first investor lined up!
-- 12/03/2020: Seem to have sprained my ankle or something. Keep limping on that side.
+- 2025‑09‑20: Reviewed and updated my TELOS document to reflect my career progress and goals.
